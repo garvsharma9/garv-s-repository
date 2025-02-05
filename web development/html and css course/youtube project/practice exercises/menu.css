@@ -1,0 +1,28 @@
+.elements{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    line-height: 30px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: gray;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.first,
+.second,
+.third{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.notification{
+    background-color: rgb(77, 77, 224); 
+    border-radius: 20px;
+    text-align: center;
+    margin: 2px;
+    color: white;
+}

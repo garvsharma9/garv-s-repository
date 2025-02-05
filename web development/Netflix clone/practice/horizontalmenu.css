@@ -1,0 +1,14 @@
+.menu{
+    overflow: auto;
+    white-space: nowrap;
+    background-color: gray;
+}
+
+
+
+.menu-elements{
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+    color: white;
+}
